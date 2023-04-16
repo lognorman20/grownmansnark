@@ -1,1 +1,1 @@
-/Users/logno/Documents/work/github/grownmansnark/target/debug/babysnark: /Users/logno/Documents/work/github/grownmansnark/src/babysnark.rs
+/Users/qianjing/projects/weekend-projects/grownmansnark/target/debug/babysnark: /Users/qianjing/projects/weekend-projects/grownmansnark/src/babysnark.rs
